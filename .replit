@@ -1,1 +1,1 @@
-CLASSPATH=".:./src/main/java/*"
+# run = "export CLASSPATH=\".:lib/rsamath.jar\"; javac -d . Main.java; java Main"
